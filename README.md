@@ -1,0 +1,1 @@
+#ORACLE PL/SQL REFERENCE for personal purposes
